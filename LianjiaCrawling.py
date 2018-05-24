@@ -1,3 +1,9 @@
+'''
+This code is for getting Lianjia Website data from its webpage.
+By using regex, we can catch the prices of houses in each district of Beijing, and
+save these data in a csv file. 
+'''
+
 import re
 import urllib
 import os
