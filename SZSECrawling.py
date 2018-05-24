@@ -1,3 +1,7 @@
+'''
+This Python code is for getting data from SZSE webpage and save those data in a csv file.
+'''
+
 from urllib import request
 from selenium import webdriver
 import requests
